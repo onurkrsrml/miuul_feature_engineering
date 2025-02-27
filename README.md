@@ -1,4 +1,4 @@
-# miuul_recommender_systems
+# miuul_feature_engineering
 
 Bu proje, Conda sanal ortamında Python ile geliştirilmiş bir projedir. Proje, veri bilimi alanındaki Özellik Mühendisliği' ni öğrenmek amacıyla tasarlanmıştır.
 
